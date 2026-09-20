@@ -13,15 +13,15 @@ _<p align="center">Solver being used on JPL's ATHLETE robot for full body IK</p>
 
 ## Examples
 
-[Hexapod demo](https://gkjohnson.github.io/closed-chain-ik-js/dist/hexapod.html)
+[Hexapod demo](https://gkjohnson.github.io/closed-chain-ik-js/hexapod.html)
 
-[ATHLETE and Robonaut demo](https://gkjohnson.github.io/closed-chain-ik-js/dist/index.html)
+[ATHLETE and Robonaut demo](https://gkjohnson.github.io/closed-chain-ik-js/index.html)
 
-[Rover mobility settling demo](https://gkjohnson.github.io/closed-chain-ik-js/dist/settling.html)
+[Rover mobility settling demo](https://gkjohnson.github.io/closed-chain-ik-js/settling.html)
 
-[VR demo](https://gkjohnson.github.io/closed-chain-ik-js/dist/vr.html)
+[VR demo](https://gkjohnson.github.io/closed-chain-ik-js/vr.html)
 
-[Partial degrees of freedom Goal demo](https://gkjohnson.github.io/closed-chain-ik-js/dist/goals.html)
+[Partial degrees of freedom Goal demo](https://gkjohnson.github.io/closed-chain-ik-js/goals.html)
 
 ## Model License Information
 
